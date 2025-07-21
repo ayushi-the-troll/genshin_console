@@ -25,7 +25,7 @@ Images:
 TOTAL TIME SPENT: 3 hours
 
 ## July 21, 2025
-Created the case for my macropad. It's a simple case that I cadded on Onshape, and I plan to cad a bottom one once I know this one fits. I added the STL file just before writing this, so do check that out! Cadding the case wasn't too bad, I just got the width and length measurements off of KiCAD, and I used other CAD files to measure the height. I wasn't able to get the height of the XIAO controller, but it's not too tall, so hopefully I created enough room. I didn't code firmware today since I realized I could play with the code once I get the actual PCB.
+Created the case for my macropad. It's a simple case that I cadded on Onshape, and I plan to cad a bottom one once I know this one fits. I added the STL file just before writing this, so do check that out! Cadding the case wasn't too bad, I just got the width and length measurements off of KiCAD, and I used other CAD files to measure the height. I wasn't able to get the height of the XIAO controller, but it's not too tall, so hopefully I created enough room.
 
 Images:
 
